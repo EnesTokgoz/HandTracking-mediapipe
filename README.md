@@ -1,4 +1,4 @@
-# HandTracking-mediapipe
+#Keyboard and Mouse Controller / HandTracking-mediapipe
 KeyboardController kodu sağ el baz alınarak yapıldı. Sağ elin işaret ve orta parmağına "w" baş parmağına "a" serçe parmağınaysa "d" harfi atandı."s" harfin içinse elin kapalı bir şekilde yumruk yapılması yeterli.
 HandTrackingModule ve KeyboardController aynı dizinde olmalı.
 
